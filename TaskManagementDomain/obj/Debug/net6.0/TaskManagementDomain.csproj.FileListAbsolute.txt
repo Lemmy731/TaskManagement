@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\bin\Debug\net6.0\TaskManagementDomain.deps.json
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\bin\Debug\net6.0\TaskManagementDomain.dll
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\bin\Debug\net6.0\TaskManagementDomain.pdb
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\obj\Debug\net6.0\TaskManagementDomain.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\obj\Debug\net6.0\TaskManagementDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\obj\Debug\net6.0\TaskManagementDomain.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\obj\Debug\net6.0\TaskManagementDomain.AssemblyInfo.cs
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\obj\Debug\net6.0\TaskManagementDomain.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\obj\Debug\net6.0\TaskManagementDomain.dll
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\obj\Debug\net6.0\refint\TaskManagementDomain.dll
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\obj\Debug\net6.0\TaskManagementDomain.pdb
+C:\Users\hp\Desktop\TaskManagementSystemApi\TaskManagementDomain\obj\Debug\net6.0\ref\TaskManagementDomain.dll
